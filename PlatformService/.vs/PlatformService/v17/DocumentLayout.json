@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Microservices\\PlatformService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|d:\\projects\\microservices\\platformservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|d:\\projects\\microservices\\platformservice\\syncdataservices\\http\\httpcommanddataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|solutionrelative:syncdataservices\\http\\httpcommanddataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|d:\\projects\\microservices\\platformservice\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|solutionrelative:controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|d:\\projects\\microservices\\platformservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|d:\\projects\\microservices\\platformservice\\asyncdataservices\\messagebusclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|solutionrelative:asyncdataservices\\messagebusclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|d:\\projects\\microservices\\platformservice\\asyncdataservices\\imessagebusclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|solutionrelative:asyncdataservices\\imessagebusclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|d:\\projects\\microservices\\platformservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|d:\\projects\\microservices\\platformservice\\data\\prepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|solutionrelative:data\\prepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|d:\\projects\\microservices\\platformservice\\profiles\\platformsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|solutionrelative:profiles\\platformsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|d:\\projects\\microservices\\platformservice\\data\\platformrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|solutionrelative:data\\platformrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|d:\\projects\\microservices\\platformservice\\data\\iplatformrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|solutionrelative:data\\iplatformrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|d:\\projects\\microservices\\platformservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|d:\\projects\\microservices\\platformservice\\dtos\\platformreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|solutionrelative:dtos\\platformreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|d:\\projects\\microservices\\platformservice\\dtos\\platformpublisheddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|solutionrelative:dtos\\platformpublisheddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|d:\\projects\\microservices\\platformservice\\dtos\\platformcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|solutionrelative:dtos\\platformcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|d:\\projects\\microservices\\platformservice\\models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A531EE9-C08C-4020-B290-EC1CF1864DA0}|PlatformService.csproj|solutionrelative:models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlatformsController.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\PlatformService\\Controllers\\PlatformsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlatformsController.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\PlatformService\\Controllers\\PlatformsController.cs",
+              "RelativeToolTip": "Controllers\\PlatformsController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAQwEQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:49:23.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HttpCommandDataClient.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\PlatformService\\SyncDataServices\\Http\\HttpCommandDataClient.cs",
+              "RelativeDocumentMoniker": "SyncDataServices\\Http\\HttpCommandDataClient.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\PlatformService\\SyncDataServices\\Http\\HttpCommandDataClient.cs",
+              "RelativeToolTip": "SyncDataServices\\Http\\HttpCommandDataClient.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwB0AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:10:55.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\PlatformService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\PlatformService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:53:31.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\PlatformService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Projects\\Microservices\\PlatformService\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T17:06:51.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageBusClient.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\PlatformService\\AsyncDataServices\\MessageBusClient.cs",
+              "RelativeDocumentMoniker": "AsyncDataServices\\MessageBusClient.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\PlatformService\\AsyncDataServices\\MessageBusClient.cs",
+              "RelativeToolTip": "AsyncDataServices\\MessageBusClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:03:16.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMessageBusClient.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\PlatformService\\AsyncDataServices\\IMessageBusClient.cs",
+              "RelativeDocumentMoniker": "AsyncDataServices\\IMessageBusClient.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\PlatformService\\AsyncDataServices\\IMessageBusClient.cs",
+              "RelativeToolTip": "AsyncDataServices\\IMessageBusClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:03:17.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\PlatformService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Projects\\Microservices\\PlatformService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T17:06:55.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PrepDb.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\PlatformService\\Data\\PrepDb.cs",
+              "RelativeDocumentMoniker": "Data\\PrepDb.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\PlatformService\\Data\\PrepDb.cs",
+              "RelativeToolTip": "Data\\PrepDb.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:58:51.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlatformsProfile.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\PlatformService\\Profiles\\PlatformsProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\PlatformsProfile.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\PlatformService\\Profiles\\PlatformsProfile.cs",
+              "RelativeToolTip": "Profiles\\PlatformsProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:06:34.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlatformRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\PlatformService\\Data\\PlatformRepo.cs",
+              "RelativeDocumentMoniker": "Data\\PlatformRepo.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\PlatformService\\Data\\PlatformRepo.cs",
+              "RelativeToolTip": "Data\\PlatformRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:49:15.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPlatformRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\PlatformService\\Data\\IPlatformRepo.cs",
+              "RelativeDocumentMoniker": "Data\\IPlatformRepo.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\PlatformService\\Data\\IPlatformRepo.cs",
+              "RelativeToolTip": "Data\\IPlatformRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:49:11.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlatformReadDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\PlatformService\\Dtos\\PlatformReadDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\PlatformReadDto.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\PlatformService\\Dtos\\PlatformReadDto.cs",
+              "RelativeToolTip": "Dtos\\PlatformReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:49:04.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlatformPublishedDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\PlatformService\\Dtos\\PlatformPublishedDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\PlatformPublishedDto.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\PlatformService\\Dtos\\PlatformPublishedDto.cs",
+              "RelativeToolTip": "Dtos\\PlatformPublishedDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:49:01.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlatformCreateDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\PlatformService\\Dtos\\PlatformCreateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\PlatformCreateDto.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\PlatformService\\Dtos\\PlatformCreateDto.cs",
+              "RelativeToolTip": "Dtos\\PlatformCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:48:59.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Platform.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\PlatformService\\Models\\Platform.cs",
+              "RelativeDocumentMoniker": "Models\\Platform.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\PlatformService\\Models\\Platform.cs",
+              "RelativeToolTip": "Models\\Platform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:48:54.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\PlatformService\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\PlatformService\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:48:04.565Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

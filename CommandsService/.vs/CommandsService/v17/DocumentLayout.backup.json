@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Microservices\\CommandsService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|d:\\projects\\microservices\\commandsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|d:\\projects\\microservices\\commandsservice\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|solutionrelative:controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|d:\\projects\\microservices\\commandsservice\\eventprocessing\\ieventprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|solutionrelative:eventprocessing\\ieventprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|d:\\projects\\microservices\\commandsservice\\eventprocessing\\eventprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|solutionrelative:eventprocessing\\eventprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|d:\\projects\\microservices\\commandsservice\\dtos\\platformreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|solutionrelative:dtos\\platformreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|d:\\projects\\microservices\\commandsservice\\dtos\\platformpublisheddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|solutionrelative:dtos\\platformpublisheddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|d:\\projects\\microservices\\commandsservice\\dtos\\genericeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|solutionrelative:dtos\\genericeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|d:\\projects\\microservices\\commandsservice\\dtos\\commandreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|solutionrelative:dtos\\commandreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|d:\\projects\\microservices\\commandsservice\\dtos\\commandcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|solutionrelative:dtos\\commandcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|d:\\projects\\microservices\\commandsservice\\data\\prepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|solutionrelative:data\\prepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|d:\\projects\\microservices\\commandsservice\\data\\icommandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|solutionrelative:data\\icommandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|d:\\projects\\microservices\\commandsservice\\data\\commandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|solutionrelative:data\\commandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|d:\\projects\\microservices\\commandsservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|d:\\projects\\microservices\\commandsservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|d:\\projects\\microservices\\commandsservice\\controllers\\commandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|solutionrelative:controllers\\commandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|d:\\projects\\microservices\\commandsservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C843876-A9BD-4ABA-A84D-7DE87F9BF65F}|CommandsService.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\CommandsService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\CommandsService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:40:57.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEventProcessor.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\CommandsService\\EventProcessing\\IEventProcessor.cs",
+              "RelativeDocumentMoniker": "EventProcessing\\IEventProcessor.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\CommandsService\\EventProcessing\\IEventProcessor.cs",
+              "RelativeToolTip": "EventProcessing\\IEventProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:31:05.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlatformReadDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\CommandsService\\Dtos\\PlatformReadDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\PlatformReadDto.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\CommandsService\\Dtos\\PlatformReadDto.cs",
+              "RelativeToolTip": "Dtos\\PlatformReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:30:57.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlatformPublishedDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\CommandsService\\Dtos\\PlatformPublishedDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\PlatformPublishedDto.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\CommandsService\\Dtos\\PlatformPublishedDto.cs",
+              "RelativeToolTip": "Dtos\\PlatformPublishedDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:30:55.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericEventDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\CommandsService\\Dtos\\GenericEventDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\GenericEventDto.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\CommandsService\\Dtos\\GenericEventDto.cs",
+              "RelativeToolTip": "Dtos\\GenericEventDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:30:53.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlatformsController.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\CommandsService\\Controllers\\PlatformsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlatformsController.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\CommandsService\\Controllers\\PlatformsController.cs",
+              "RelativeToolTip": "Controllers\\PlatformsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:29:35.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventProcessor.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\CommandsService\\EventProcessing\\EventProcessor.cs",
+              "RelativeDocumentMoniker": "EventProcessing\\EventProcessor.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\CommandsService\\EventProcessing\\EventProcessor.cs",
+              "RelativeToolTip": "EventProcessing\\EventProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:31:01.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommandReadDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\CommandsService\\Dtos\\CommandReadDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CommandReadDto.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\CommandsService\\Dtos\\CommandReadDto.cs",
+              "RelativeToolTip": "Dtos\\CommandReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:30:52.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommandCreateDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\CommandsService\\Dtos\\CommandCreateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CommandCreateDto.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\CommandsService\\Dtos\\CommandCreateDto.cs",
+              "RelativeToolTip": "Dtos\\CommandCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:30:50.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PrepDb.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\CommandsService\\Data\\PrepDb.cs",
+              "RelativeDocumentMoniker": "Data\\PrepDb.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\CommandsService\\Data\\PrepDb.cs",
+              "RelativeToolTip": "Data\\PrepDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:30:03.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICommandRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\CommandsService\\Data\\ICommandRepo.cs",
+              "RelativeDocumentMoniker": "Data\\ICommandRepo.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\CommandsService\\Data\\ICommandRepo.cs",
+              "RelativeToolTip": "Data\\ICommandRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:30:00.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CommandRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\CommandsService\\Data\\CommandRepo.cs",
+              "RelativeDocumentMoniker": "Data\\CommandRepo.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\CommandsService\\Data\\CommandRepo.cs",
+              "RelativeToolTip": "Data\\CommandRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:29:55.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\CommandsService\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\CommandsService\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:29:46.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\CommandsService\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\CommandsService\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:29:42.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\CommandsService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\Microservices\\CommandsService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T18:28:32.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CommandsController.cs",
+              "DocumentMoniker": "D:\\Projects\\Microservices\\CommandsService\\Controllers\\CommandsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommandsController.cs",
+              "ToolTip": "D:\\Projects\\Microservices\\CommandsService\\Controllers\\CommandsController.cs",
+              "RelativeToolTip": "Controllers\\CommandsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:22:22.429Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
