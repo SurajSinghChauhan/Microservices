@@ -23,13 +23,13 @@ namespace PlatformService.Controllers
         public PlatformsController(
             IPlatformRepo repository,
             IMapper mapper,
-            ICommandDataClient commandDataClient)
-            //IMessageBusClient messageBusClient)
+            ICommandDataClient commandDataClient,
+            IMessageBusClient messageBusClient)
         {
             _repository = repository;
             _mapper = mapper;
             _commandDataClient = commandDataClient;
-            //_messageBusClient = messageBusClient;
+            _messageBusClient = messageBusClient;
         }
 
         [HttpGet]
@@ -78,7 +78,7 @@ namespace PlatformService.Controllers
             {
                 var platformPublishedDto = _mapper.Map<PlatformPublishedDto>(platformReadDto);
                 platformPublishedDto.Event = "Platform_Published";
-                //_messageBusClient.PublishNewPlatform(platformPublishedDto);
+                _messageBusClient.PublishNewPlatform(platformPublishedDto);
             }
             catch (Exception ex)
             {

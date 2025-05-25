@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Microservices\\PlatformService\\PlatformService.csproj": {}
+    "D:\\Projects\\Git\\Microservices\\PlatformService\\PlatformService.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Microservices\\PlatformService\\PlatformService.csproj": {
+    "D:\\Projects\\Git\\Microservices\\PlatformService\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Microservices\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "D:\\Projects\\Git\\Microservices\\PlatformService\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "D:\\Projects\\Microservices\\PlatformService\\PlatformService.csproj",
+        "projectPath": "D:\\Projects\\Git\\Microservices\\PlatformService\\PlatformService.csproj",
         "packagesPath": "C:\\Users\\suraj\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Microservices\\PlatformService\\obj\\",
+        "outputPath": "D:\\Projects\\Git\\Microservices\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -54,6 +54,10 @@
               "target": "Package",
               "version": "[14.0.0, )"
             },
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.71.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.5, )"
@@ -71,6 +75,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.5, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
